@@ -1,6 +1,0 @@
-C:\Users\jacob\Documents\School\2019-2020\Spring 2020\CIS 199\Programs\Program 4\Program 4\Program 4\obj\Debug\Program 4.csprojAssemblyReference.cache
-C:\Users\jacob\Documents\School\2019-2020\Spring 2020\CIS 199\Programs\Program 4\Program 4\Program 4\bin\Debug\Program 4.exe.config
-C:\Users\jacob\Documents\School\2019-2020\Spring 2020\CIS 199\Programs\Program 4\Program 4\Program 4\bin\Debug\Program 4.exe
-C:\Users\jacob\Documents\School\2019-2020\Spring 2020\CIS 199\Programs\Program 4\Program 4\Program 4\bin\Debug\Program 4.pdb
-C:\Users\jacob\Documents\School\2019-2020\Spring 2020\CIS 199\Programs\Program 4\Program 4\Program 4\obj\Debug\Program 4.exe
-C:\Users\jacob\Documents\School\2019-2020\Spring 2020\CIS 199\Programs\Program 4\Program 4\Program 4\obj\Debug\Program 4.pdb
