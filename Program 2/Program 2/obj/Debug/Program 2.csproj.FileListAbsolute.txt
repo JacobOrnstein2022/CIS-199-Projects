@@ -1,9 +1,0 @@
-C:\Users\jacob\Documents\School\2019-2020\Spring 2020\CIS 199\Programs\Program 2\Program 2\Program 2\bin\Debug\Program 2.exe.config
-C:\Users\jacob\Documents\School\2019-2020\Spring 2020\CIS 199\Programs\Program 2\Program 2\Program 2\bin\Debug\Program 2.exe
-C:\Users\jacob\Documents\School\2019-2020\Spring 2020\CIS 199\Programs\Program 2\Program 2\Program 2\bin\Debug\Program 2.pdb
-C:\Users\jacob\Documents\School\2019-2020\Spring 2020\CIS 199\Programs\Program 2\Program 2\Program 2\obj\Debug\Program 2.csprojAssemblyReference.cache
-C:\Users\jacob\Documents\School\2019-2020\Spring 2020\CIS 199\Programs\Program 2\Program 2\Program 2\obj\Debug\Program_2.programTwoForm.resources
-C:\Users\jacob\Documents\School\2019-2020\Spring 2020\CIS 199\Programs\Program 2\Program 2\Program 2\obj\Debug\Program_2.Properties.Resources.resources
-C:\Users\jacob\Documents\School\2019-2020\Spring 2020\CIS 199\Programs\Program 2\Program 2\Program 2\obj\Debug\Program 2.csproj.GenerateResource.cache
-C:\Users\jacob\Documents\School\2019-2020\Spring 2020\CIS 199\Programs\Program 2\Program 2\Program 2\obj\Debug\Program 2.exe
-C:\Users\jacob\Documents\School\2019-2020\Spring 2020\CIS 199\Programs\Program 2\Program 2\Program 2\obj\Debug\Program 2.pdb
